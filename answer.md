@@ -45,9 +45,58 @@
 (後台)</text></switch></g><path d="M 307.5 340 L 270 280" fill="none" stroke="#ff0000" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 310 380 L 270 460" fill="none" stroke="#ff0000" stroke-miterlimit="10" pointer-events="stroke"/><rect x="280" y="340" width="80" height="40" fill="#b1ddf0" stroke="#10739e" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 360px; margin-left: 281px;"><div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 13px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">安排接待人員<br style="font-size: 13px;" />(後台)</div></div></div></foreignObject><text x="320" y="364" fill="#000000" font-family="Helvetica" font-size="13px" text-anchor="middle" font-weight="bold">安排接待人員
 (後台)</text></switch></g><rect x="120" y="380" width="120" height="40" fill="#fad9d5" stroke="#ae4132" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 400px; margin-left: 121px;"><div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">更新申請狀況</div></div></div></foreignObject><text x="180" y="404" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">更新申請狀況</text></switch></g><path d="M 100 370 L 100 433.63" fill="none" stroke="#3333ff" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/><path d="M 100 438.88 L 96.5 431.88 L 100 433.63 L 103.5 431.88 Z" fill="#3333ff" stroke="#3333ff" stroke-miterlimit="10" pointer-events="all"/><path d="M 133.33 520 L 45.36 576.56" fill="none" stroke="#ff0000" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 40.94 579.4 L 44.94 572.67 L 45.36 576.56 L 48.72 578.55 Z" fill="#ff0000" stroke="#ff0000" stroke-miterlimit="10" pointer-events="all"/><path d="M 226.67 520 L 314.64 576.56" fill="none" stroke="#ff0000" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 319.06 579.4 L 311.28 578.55 L 314.64 576.56 L 315.06 572.67 Z" fill="#ff0000" stroke="#ff0000" stroke-miterlimit="10" pointer-events="all"/><rect x="0" y="460" width="360" height="60" fill="#0050ef" stroke="#001dbc" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 358px; height: 1px; padding-top: 490px; margin-left: 1px;"><div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;"><span style="font-family: &quot;Söhne Mono&quot;, Monaco, &quot;Andale Mono&quot;, &quot;Ubuntu Mono&quot;, monospace; font-size: 16px; text-align: left;"> Line通知系統 </span></div></div></div></foreignObject><text x="180" y="495" fill="#000000" font-family="Helvetica" font-size="16px" text-anchor="middle" font-weight="bold"> Line通知系統 </text></switch></g><rect x="0" y="580" width="80" height="40" fill="#b1ddf0" stroke="#10739e" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 600px; margin-left: 1px;"><div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 13px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">通知預約成功(後台)</div></div></div></foreignObject><text x="40" y="604" fill="#000000" font-family="Helvetica" font-size="13px" text-anchor="middle" font-weight="bold">通知預約成功(後台)</text></switch></g><rect x="280" y="580" width="80" height="40" fill="#b1ddf0" stroke="#10739e" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 600px; margin-left: 281px;"><div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;"><div style="display: inline-block; font-size: 13px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">通知預約失敗(後台)</div></div></div></foreignObject><text x="320" y="604" fill="#000000" font-family="Helvetica" font-size="13px" text-anchor="middle" font-weight="bold">通知預約失敗(後台)</text></switch></g></g><switch><g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/><a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank"><text text-anchor="middle" font-size="10px" x="50%" y="100%">Text is not SVG - cannot display</text></a></switch></svg>
 
-(c)
+(c)<br>
+預約看房<br>
+案例描述：預約型買家填寫預約表單，提出看房申請。<br>
+主要參與者：預約型買家<br>
+利害關係人與目標：想要預約看房的買家，提供個人資訊並選擇適合的時段。<br>
+前置條件：登入 Line bot 公開頻道。<br>
+後置條件：成功提交看房申請。<br>
+主要成功情節：預約看房申請成功提交。<br>
+活動圖：
+
+活動：通知預約成功
+
+開始
+系統 >> 收到預約看房申請
+系統 >> 審核通過申請
+系統 >> 發送通知給預約型買家 (預約成功)
+結束
+
+現場參觀
+案件描述：現場即時參觀買家填寫申請表單，等待代銷管理者的安排。<br>
+主要參與者：現場即時參觀買家。<br>
+利害關係人與目標：當天想即時參觀房屋的買家，無法自行選擇時段。<br>
+前置條件：登入 Line bot 公開頻道。<br>
+後置條件：成功提交現場參觀申請。<br>
+主要成功情節：現場參觀申請成功提交。<br>
+
+審核申請<br>
+描述：代銷管理者審核預約看房or現場參觀的申請。<br>
+主要參與者：代銷管理者。<br>
+利害關係人與目標：審核預約申請、安排代銷人員。<br>
+前置條件：收到新的申請。<br>
+後置條件：申請被審核並更新狀態。<br>
+主要成功情節：申請被審核通過。<br>
+
+安排接待人員<br>
+描述：代銷管理者安排接待預約型買家or現場即時參觀買家的代銷人員。<br>
+主要參與者：代銷管理者。<br>
+利害關係人與目標：安排合適的代銷人員接待買家。<br>
+前置條件：收到新的申請並審核通過。<br>
+後置條件：代銷人員被成功安排。<br>
+主要成功情節：代銷人員被安排接待。<br>
+
+通知預約成功or失敗<br>
+描述：通知預約型買家預約看房成功or失敗。<br>
+主要參與者：Line 通知系統<br>
+利害關係人與目標：通知預約型買家預約看房成功or失敗。<br>
+前置條件：代銷管理者安排接待人員。<br>
+後置條件：預約型買家收到通知。<br>
+主要成功情節：預約成功通知發送。<br>
 
 (d)
+
 
 >2. 
 
